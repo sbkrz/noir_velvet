@@ -1,0 +1,159 @@
+id_cliente,nombre,email,direccion,telefono,provincia
+1,"Kim Hajun",kimkim98@hotmail.com,"Park Avenue 1178",+82296745122,NULL
+2,"Lopez Andrea",andylp00@gmail.com,"Av. Congreso 2011",+541188765234,"Buenos Aires"
+3,"Garcia Juan",juangarcia12@gmail.com,"Calle Corrientes 1234",+541134567890,"Buenos Aires"
+4,"Martinez Sofia",sofiamartinez23@gmail.com,"Calle San Martin 456",+541198765432,"Buenos Aires"
+5,"Rodriguez Carlos",carlosr123@gmail.com,"Av. Libertador 6543",+541144567890,"Buenos Aires"
+6,"Perez Camila",camiperez89@gmail.com,"Calle Lavalle 987",+541199876543,"Buenos Aires"
+7,"Gomez Maria",mariagomez76@gmail.com,"Calle Belgrano 321",+541134567891,"Buenos Aires"
+8,"Fernandez Diego",diegofz22@gmail.com,"Av. Rivadavia 4567",+541112345678,"Buenos Aires"
+9,"Sanchez Lucia",luciasanchez45@gmail.com,"Calle Moreno 765",+541198765431,"Buenos Aires"
+10,"Gonzalez Javier",javigon@gmail.com,"Av. Santa Fe 1234",+541176543210,"Buenos Aires"
+11,"Lopez Agustin",agustinlp@gmail.com,"Calle Pueyrredon 456",+541198765430,"Buenos Aires"
+12,"Diaz Daniela",danieladiaz33@gmail.com,"Av. Callao 789",+541112345679,"Buenos Aires"
+13,"Benitez Tomas",tbenitez99@gmail.com,"Calle Independencia 123",+541109876543,"Buenos Aires"
+14,"Mendez Laura",lauramendez10@gmail.com,"Av. 9 de Julio 2345",+541134567892,"Buenos Aires"
+15,"Silva Federico",fedsilva@gmail.com,"Calle Libertad 678",+541109876542,"Buenos Aires"
+16,"Ruiz Valeria",valruiz85@gmail.com,"Calle Rodriguez Peña 123",+541134567893,"Buenos Aires"
+17,"Romero Pablo",pabloromero@gmail.com,"Av. Sarmiento 456",+541198765429,"Buenos Aires"
+18,"Cabrera Ana",anacabrera22@gmail.com,"Calle Entre Rios 234",+541109876541,"Buenos Aires"
+19,"Molina Javier",javimolina@gmail.com,"Av. Cabildo 789",+541144567891,"Buenos Aires"
+20,"Diaz Victoria",vic.diaz@gmail.com,"Calle Roca 123",+541112345680,"Buenos Aires"
+21,"Martinez Laura",lauramartinez@gmail.com,"Calle Defensa 456",+541198765428,"Buenos Aires"
+22,"Gutierrez Juan",juangutierrez@gmail.com,"Av. Colón 789",+543512345678,Cordoba
+23,"Herrera Marcela",marcelah@gmail.com,"Calle Dean Funes 456",+543514567890,Cordoba
+24,"Sosa Miguel",miguel.sosa@gmail.com,"Calle Obispo Trejo 123",+543512345679,Cordoba
+25,"Aguero Maria",mariaaguero@gmail.com,"Calle San Juan 321",+543514567891,Cordoba
+26,"Pereyra Carlos",pereyra.carlos@gmail.com,"Calle Velez Sarsfield 654",+543512345670,Cordoba
+27,"Navarro Pedro",pedronavarro@gmail.com,"Calle Urquiza 123",+543425678901,"Santa Fe"
+28,"Guzman Karina",karinaguzman@gmail.com,"Calle San Jeronimo 456",+543421234567,"Santa Fe"
+29,"Flores Andrea",andreaflores@gmail.com,"Calle General Paz 789",+543421234568,"Santa Fe"
+30,"Villalba Fabian",fabianvillalba@gmail.com,"Calle Boulevard 123",+543425678902,"Santa Fe"
+31,"Juarez Maria",mar_juarez@gmail.com,"Calle Rivadavia 654",+543421234569,"Santa Fe"
+32,"Quiroga Sofia",sofiaquiroga@gmail.com,"Calle Madero 789",+541134567894,"Buenos Aires"
+33,"Caceres Joaquin",joaquincaceres@gmail.com,"Calle Rivadavia 234",+541112345681,"Buenos Aires"
+34,"Funes Valentina",valentinafunes@gmail.com,"Calle Córdoba 123",+541198765427,"Buenos Aires"
+35,"Ortega Juan",juanortega@gmail.com,"Calle Sarmiento 456",+541109876540,"Buenos Aires"
+36,"Vega Mariana",marianavega@gmail.com,"Calle Florida 789",+541144567892,"Buenos Aires"
+37,"Moreno Pablo",pablomoreno@gmail.com,"Av. Alvear 234",+541112345682,"Buenos Aires"
+38,"Romero Natalia",nataliaromero@gmail.com,"Calle Arenales 123",+541198765426,"Buenos Aires"
+39,"Alvarez Juan",juanalvarez@gmail.com,"Calle Callao 456",+541109876539,"Buenos Aires"
+40,"Bustos Carla",carlabustos@gmail.com,"Calle Canning 789",+541134567895,"Buenos Aires"
+41,"Olivera Miguel",miguel.olivera@gmail.com,"Calle Libertador 234",+541112345683,"Buenos Aires"
+42,"Fernandez Lucia",luciaf@gmail.com,"Calle Montevideo 123",+541198765425,"Buenos Aires"
+43,"Lopez Carolina",carolopez@gmail.com,"Calle Paraná 456",+541109876538,"Buenos Aires"
+44,"Silva Jose",josesilva@gmail.com,"Calle Arenales 789",+541144567893,"Buenos Aires"
+45,"Sanchez Pedro",pedrosanchez@gmail.com,"Av. Las Heras 234",+541112345684,"Buenos Aires"
+46,"Reyes Natalia",nataliareyes@gmail.com,"Calle Beruti 123",+541198765424,"Buenos Aires"
+47,"Gomez Martin",martingomez@gmail.com,"Calle Anchorena 456",+541109876537,"Buenos Aires"
+48,"Ramos Ana",anaramos@gmail.com,"Calle Charcas 789",+541134567896,"Buenos Aires"
+49,"Morales Juan",juanmorales@gmail.com,"Calle Gallo 234",+541112345685,"Buenos Aires"
+50,"Luna Patricia",patricialuna@gmail.com,"Calle Honduras 123",+541198765423,"Buenos Aires"
+51,"Suarez Mateo",mateosuarez@gmail.com,"Calle Nicaragua 456",+541109876536,"Buenos Aires"
+52,"Coronel Sebastian",sebastiancoronel@gmail.com,"Calle Urquiza 123",+543445678901,"Entre Rios"
+53,"Medina Mariana",marianamedina@gmail.com,"Calle Mitre 456",+543442345678,"Entre Rios"
+54,"Ponce Luis",luisponce@gmail.com,"Calle Pellegrini 789",+543445678902,"Entre Rios"
+55,"Ortiz Paola",paolaortiz@gmail.com,"Calle Belgrano 123",+543442345679,"Entre Rios"
+56,"Rojas Martin",martinrojas@gmail.com,"Calle Buenos Aires 456",+543445678903,"Entre Rios"
+57,"Lopez Marcos",marcoslopez@gmail.com,"Calle Olmos 123",+543512345671,Cordoba
+58,"Garcia Sabrina",sabrinagarcia@gmail.com,"Calle Maipu 456",+543514567892,Cordoba
+59,"Martinez Gonzalo",gonzalomartinez@gmail.com,"Calle Rivera Indarte 789",+543512345672,Cordoba
+60,"Rodriguez Paula",paularodriguez@gmail.com,"Calle Caseros 123",+543514567893,Cordoba
+61,"Perez Martin",martinperez@gmail.com,"Calle San Juan 456",+543512345673,Cordoba
+62,"Gomez Laura",lauragomez@gmail.com,"Calle Dean Funes 789",+543514567894,Cordoba
+63,"Fernandez Luis",luisfernandez@gmail.com,"Calle General Paz 123",+543512345674,Cordoba
+64,"Sanchez Veronica",veronicasanchez@gmail.com,"Calle Colon 456",+543514567895,Cordoba
+65,"Gonzalez Francisco",franciscogonzalez@gmail.com,"Calle Velez Sarsfield 789",+543512345675,Cordoba
+66,"Lopez Ana",analopez@gmail.com,"Calle Humberto Primo 123",+543514567896,Cordoba
+67,"Diaz Facundo",facundodiaz@gmail.com,"Calle 9 de Julio 456",+543512345676,Cordoba
+68,"Benitez Lorena",lorenabenitez@gmail.com,"Calle Sucre 789",+543514567897,Cordoba
+69,"Mendez Gustavo",gustavomendez@gmail.com,"Calle Urquiza 123",+543512345677,Cordoba
+70,"Silva Mariana",marianasilva@gmail.com,"Calle Buenos Aires 456",+543514567898,Cordoba
+71,"Ruiz Emanuel",emanuelruiz@gmail.com,"Calle San Jose 789",+543512345678,Cordoba
+72,"Romero Gabriela",gabrielaromero@gmail.com,"Calle Independencia 123",+543514567899,Cordoba
+73,"Cabrera Nahuel",nahuelcabrera@gmail.com,"Calle Entre Rios 456",+543512345679,Cordoba
+74,"Molina Cintia",cintiamolina@gmail.com,"Calle Santa Rosa 789",+543514567800,Cordoba
+75,"Diaz Ignacio",ignaciodiaz@gmail.com,"Calle Roca 123",+543512345680,Cordoba
+76,"Martinez Antonella",antonellamartinez@gmail.com,"Calle La Rioja 456",+543514567801,Cordoba
+77,"Gutierrez Andrea",andreagutierrez@gmail.com,"Calle San Lorenzo 789",+543512345681,Cordoba
+78,"Herrera Julio",julioherrera@gmail.com,"Calle Corrientes 123",+543514567802,Cordoba
+79,"Sosa Santiago",santiagososa@gmail.com,"Calle Esquiú 456",+543512345682,Cordoba
+80,"Aguero Rocio",rocioaguero@gmail.com,"Calle Alvear 789",+543514567803,Cordoba
+81,"Pereyra Camila",camilapereyra@gmail.com,"Calle Paraná 123",+543512345683,Cordoba
+82,"Navarro Cristian",cristiannavarro@gmail.com,"Calle Jujuy 456",+543514567804,Cordoba
+83,"Guzman Carla",carlaguzman@gmail.com,"Calle Tucuman 789",+543512345684,Cordoba
+84,"Flores Matias",matiasflores@gmail.com,"Calle Salta 123",+543514567805,Cordoba
+85,"Villalba Bruno",brunovillalba@gmail.com,"Calle Catamarca 456",+543512345685,Cordoba
+86,"Juarez Soledad",soledadjuarez@gmail.com,"Calle Chacabuco 789",+543514567806,Cordoba
+87,"Lopez Victoria",victorialopez@gmail.com,"Calle 3 de Febrero 123",+543754321098,Misiones
+88,"Garcia Nicolas",nicolasgarcia@gmail.com,"Calle Uruguay 456",+543752345678,Misiones
+89,"Martinez Julieta",julietamartinez@gmail.com,"Calle Colon 789",+543753456789,Misiones
+90,"Rodriguez Diego",diegorodriguez@gmail.com,"Calle San Martin 123",+543754321099,Misiones
+91,"Perez Sofia",sofiaperez@gmail.com,"Calle Sarmiento 456",+543752345679,Misiones
+92,"Gomez Emanuel",emanuelgomez@gmail.com,"Calle Rivadavia 789",+543753456790,Misiones
+93,"Fernandez Florencia",florenciafernandez@gmail.com,"Calle Belgrano 123",+543754321100,Misiones
+94,"Sanchez Pablo",pablosanchez@gmail.com,"Calle Lavalle 456",+543752345680,Misiones
+95,"Gonzalez Rocio",rociogonzalez@gmail.com,"Calle Alberdi 789",+543753456791,Misiones
+96,"Lopez Martin",martinlopez@gmail.com,"Calle Mitre 123",+543754321101,Misiones
+97,"Diaz Agustin",agustindiaz@gmail.com,"Calle España 456",+543752345681,Misiones
+98,"Benitez Lucas",lucasbenitez@gmail.com,"Calle Moreno 789",+543753456792,Misiones
+99,"Mendez Valeria",valeriamendez@gmail.com,"Calle San Lorenzo 123",+543754321102,Misiones
+100,"Silva Camila",camilasilva@gmail.com,"Calle Tucuman 456",+543752345682,Misiones
+101,"Ruiz Matias",matiasruiz@gmail.com,"Calle Jujuy 789",+543753456793,Misiones
+216,"Garcia Javier",javiergarcia@gmail.com,"Calle Republica 123",+543834567890,Catamarca
+217,"Lopez Daniela",danielalopez@gmail.com,"Calle San Fernando 456",+543832345678,Catamarca
+218,"Rodriguez Esteban",estebanrodriguez@gmail.com,"Calle Esquiu 789",+543834567891,Catamarca
+219,"Perez Maria",mariaperez@gmail.com,"Calle Belgrano 123",+543832345679,Catamarca
+220,"Gomez Hernan",hernangomez@gmail.com,"Calle Mate de Luna 456",+543834567892,Catamarca
+221,"Fernandez Camila",camilafdez@gmail.com,"Calle Rivadavia 789",+543832345680,Catamarca
+222,"Sanchez Lucas",lucassanchez@gmail.com,"Calle Sarmiento 123",+543834567893,Catamarca
+223,"Gonzalez Carla",carlagonzalez@gmail.com,"Calle Prado 456",+543832345681,Catamarca
+224,"Diaz Alejandra",alejandradiaz@gmail.com,"Calle Gutierrez 789",+543834567894,Catamarca
+225,"Molina Juan",juanmolina@gmail.com,"Calle Lopez 123",+543832345682,Catamarca
+226,"Lopez Valentina",valentinalopez@gmail.com,"Calle Las Heras 123",+542614567890,Mendoza
+227,"Garcia Rodrigo",rodrigogarcia@gmail.com,"Calle Godoy Cruz 456",+542612345678,Mendoza
+228,"Martinez Liliana",lilianamartinez@gmail.com,"Calle Lavalle 789",+542614567891,Mendoza
+229,"Rodriguez Matias",matiasrodriguez@gmail.com,"Calle San Martin 123",+542612345679,Mendoza
+230,"Perez Julia",juliaperez@gmail.com,"Calle Guaymallen 456",+542614567892,Mendoza
+231,"Gomez Carlos",carlosgomez@gmail.com,"Calle Lujan 789",+542612345680,Mendoza
+232,"Fernandez Lucia",luciafernandez@gmail.com,"Calle Maipu 123",+542614567893,Mendoza
+233,"Sanchez Pablo",pablosanchz66@gmail.com,"Calle Tunuyan 456",+542612345681,Mendoza
+234,"Gonzalez Florencia",florenciagonzalez@gmail.com,"Calle San Rafael 789",+542614567894,Mendoza
+235,"Diaz Ignacio",ignadz@gmail.com,"Calle Las Compuertas 123",+542612345682,Mendoza
+236,"Lopez Sofia",sofialopez@gmail.com,"Calle Rivadavia 123",+542914567890,"Tierra del Fuego"
+237,"Garcia Tomas",tomasgarcia@gmail.com,"Calle Maipu 456",+542912345678,"Tierra del Fuego"
+238,"Martinez Diego",diegomartinez@gmail.com,"Calle San Martin 789",+542914567891,"Tierra del Fuego"
+239,"Rodriguez Victoria",victoriarodriguez@gmail.com,"Calle 25 de Mayo 123",+542912345679,"Tierra del Fuego"
+240,"Perez Laura",lauraperez@gmail.com,"Calle Belgrano 456",+542914567892,"Tierra del Fuego"
+241,"Gomez Andres",andresgomez@gmail.com,"Calle Alvear 789",+542912345680,"Tierra del Fuego"
+242,"Fernandez Ana",anafernandez@gmail.com,"Calle Magallanes 123",+542914567893,"Tierra del Fuego"
+243,"Sanchez Martin",martinsanchez@gmail.com,"Calle San Luis 456",+542912345681,"Tierra del Fuego"
+244,"Gonzalez Marcela",marcelagonzalez@gmail.com,"Calle Yrigoyen 789",+542914567894,"Tierra del Fuego"
+245,"Diaz Alejandro",alejandrodiaz@gmail.com,"Calle Ushuaia 123",+542912345682,"Tierra del Fuego"
+246,"Lopez Emiliano",emilianolopez@gmail.com,"Calle Rawson 123",+542944567890,Chubut
+247,"Garcia Cecilia",ceciliagarcia@gmail.com,"Calle Trelew 456",+542942345678,Chubut
+248,"Martinez Franco",francomartinez@gmail.com,"Calle Madryn 789",+542944567891,Chubut
+249,"Rodriguez Mariana",marianarodriguez@gmail.com,"Calle Sarmiento 123",+542942345679,Chubut
+250,"Perez Roberto",robertoperez@gmail.com,"Calle Comodoro 456",+542944567892,Chubut
+251,"Gomez Nicolas",nicolasgomez@gmail.com,"Calle Esquel 789",+542942345680,Chubut
+252,"Fernandez Julieta",julietafernandez@gmail.com,"Calle Rada Tilly 123",+542944567893,Chubut
+253,"Sanchez Paula",paulasanchez@gmail.com,"Calle Gaiman 456",+542942345681,Chubut
+254,"Gonzalez Guillermo",guillermogonzalez@gmail.com,"Calle Dolavon 789",+542944567894,Chubut
+255,"Diaz Damian",damiandiaz@gmail.com,"Calle Piramide 123",+542942345682,Chubut
+256,"Lopez Agustina",agustinalopez@gmail.com,"Calle Mitre 123",+542994567890,Neuquen
+257,"Garcia Federico",federicogarcia@gmail.com,"Calle Belgrano 456",+542992345678,Neuquen
+258,"Martinez Maria",mariamartinez@gmail.com,"Calle Roca 789",+542994567891,Neuquen
+259,"Rodriguez Claudio",claudiorodriguez@gmail.com,"Calle Independencia 123",+542992345679,Neuquen
+260,"Perez Valeria",valeriaperez@gmail.com,"Calle Avenida Argentina 456",+542994567892,Neuquen
+261,"Gomez Sebastian",sebastiangomez@gmail.com,"Calle San Martin 789",+542992345680,Neuquen
+262,"Fernandez Micaela",micaelafernandez@gmail.com,"Calle Santa Fe 123",+542994567893,Neuquen
+263,"Sanchez Javier",javiersanchez@gmail.com,"Calle Entre Rios 456",+542992345681,Neuquen
+264,"Gonzalez Sofia",sofiagonzalez@gmail.com,"Calle Mendoza 789",+542994567894,Neuquen
+265,"Diaz Nicolas",nicolasdiaz@gmail.com,"Calle Tucuman 123",+542992345682,Neuquen
+266,"Lopez Javier",javierlopez@gmail.com,"Calle Pringles 123",+542654567890,"San Luis"
+267,"Garcia Victoria",victoriagarcia@gmail.com,"Calle Mitre 456",+542652345678,"San Luis"
+268,"Martinez Alejandro",alejandromartinez@gmail.com,"Calle Rivadavia 789",+542654567891,"San Luis"
+269,"Rodriguez Florencia",florenciarodriguez@gmail.com,"Calle San Martin 123",+542652345679,"San Luis"
+270,"Perez Carolina",carolinaperez@gmail.com,"Calle Illia 456",+542654567892,"San Luis"
+271,"Gomez Agustin",agustingomez@gmail.com,"Calle Lavalle 789",+542652345680,"San Luis"
+272,"Fernandez Gabriela",gabrielafernandez@gmail.com,"Calle Colon 123",+542654567893,"San Luis"

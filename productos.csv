@@ -1,0 +1,181 @@
+id_producto,nombre,precio,stock,id_categoria
+10119,"Kuromi Y2K Top",14.99,2,2035
+10198,"Hello Kitty Pajamas",25.99,1,2035
+15218,"Dark mini skirt",15.65,3,2033
+15219,"Black Leather Jacket",85.99,4,2033
+15220,"Dark Velvet Choker",12.99,10,2033
+15221,"Spiked Wristband",8.50,15,2033
+15222,"Gothic Lace Dress",42.99,3,2033
+15223,"Black Combat Boots",120.00,2,2033
+15224,"Skull Print T-Shirt",18.99,6,2033
+15225,"Fishnet Stockings",7.99,12,2033
+15226,"Pentagram Necklace",14.50,8,2033
+15227,"Studded Belt",19.99,5,2033
+15228,"Black Corset Top",35.50,4,2033
+15229,"Gothic Rose Choker",16.99,7,2033
+15230,"Black Lace Umbrella",29.99,3,2033
+15231,"Bat Wing Earrings",11.99,10,2033
+15232,"Victorian Style Dress",95.99,2,2033
+15233,"Gothic Candle Holder",24.99,6,2033
+15234,"Spiked Choker",19.99,8,2033
+15235,"Black Widow Hat",35.50,4,2033
+15236,"Skeleton Hand Bracelet",14.50,10,2033
+15237,"Gothic Cross Ring",9.99,15,2033
+15238,"Raven Feather Necklace",17.99,6,2033
+15239,"Black Velvet Cape",99.99,2,2033
+15240,"Gothic Crossbody Bag",39.99,3,2033
+15241,"Black Widow Spider Ring",13.99,10,2033
+15242,"Dark Rose Bracelet",15.99,8,2033
+15243,"Studded Leather Gloves",45.99,5,2033
+15244,"Bat Embroidered Jacket",120.00,4,2033
+15245,"Gothic Lace Gloves",29.99,6,2033
+15246,"Spiked Leather Collar",19.99,12,2033
+15247,"Raven Skull Pendant",27.99,7,2033
+15248,"Victorian Lace Blouse",55.99,3,2033
+15249,"Black Gothic Hat",39.99,4,2033
+15250,"Silver Pentagram Earrings",9.99,15,2033
+15251,"Dark Angel Wings",79.99,2,2033
+15252,"Gothic Rose Ring",17.50,10,2033
+15253,"Black Velvet Skirt",49.99,3,2033
+15254,"Skull Print Leggings",25.99,6,2033
+15255,"Gothic Lolita Dress",109.99,2,2033
+15256,"Spiked Leather Boots",135.00,4,2033
+15257,"Black Widow Brooch",12.99,12,2033
+15258,"Gothic Candle Set",39.99,8,2033
+15259,"Dark Crystal Necklace",29.99,5,2033
+15260,"Gothic Spiderweb Earrings",8.99,20,2033
+15261,"Black Lace Scarf",18.99,6,2033
+15262,"Gothic Rose Hairpin",6.99,25,2033
+15263,"Gothic Velvet Gloves",22.99,8,2033
+15264,"Gothic Chain Belt",19.50,10,2033
+15265,"Black Feathered Fascinator",35.99,3,2033
+15266,"Gothic Moon Choker",14.99,15,2033
+15267,"Black Silk Ribbon",5.99,25,2033
+15268,"Gothic Veil",49.99,2,2033
+15269,"Dark Rose Earrings",8.99,20,2033
+15270,"Black Velvet Choker",11.99,12,2033
+15271,"Gothic Thigh-High Boots",145.00,3,2033
+15272,"Bat Wing Choker",13.99,8,2033
+15273,"Gothic Leather Corset",79.99,2,2033
+15274,"Gothic Silver Ring",19.99,10,2033
+15275,"Black Lace Choker",16.99,7,2033
+15276,"Gothic Candle Holder",24.99,6,2033
+15277,"Gothic Skull Ring",11.99,15,2033
+15278,"Dark Rose Pendant",17.99,6,2033
+15616,"Fancy Red Dress",25.99,1,2036
+15617,"Floral Print Dress",25.50,7,2036
+15618,"Pink High Heels",55.99,2,2036
+15619,"Heart-Shaped Sunglasses",12.99,15,2036
+15620,"Frilly Socks",6.99,20,2036
+15621,"Polka Dot Skirt",20.00,5,2036
+15622,"Ribbon Hairband",8.50,10,2036
+15623,"Pearl Necklace",29.99,4,2036
+15624,"Lace Gloves",15.99,12,2036
+15625,"Pink Cardigan",35.99,3,2036
+15626,"Cute Bow Earrings",9.99,18,2036
+18990,"Cute Summer Dress",9.99,0,2036
+19613,"White Y2k Top",15.00,0,2034
+19614,"Retro Sunglasses",9.99,10,2034
+19615,"Flared Jeans",29.99,8,2034
+19616,"Tie-Dye T-Shirt",19.99,5,2034
+19617,"Mini Shoulder Bag",25.00,3,2034
+19618,"Chunky Sneakers",50.00,6,2034
+19619,"Butterfly Hair Clips",5.99,20,2034
+19620,"Crop Top",15.99,7,2034
+19621,"Plaid Mini Skirt",22.99,4,2034
+19622,"Wide-Leg Jeans",34.99,5,2034
+19623,"Velour Tracksuit",45.99,2,2034
+19624,"Neon Green Crop Top",12.99,8,2034
+19625,"Holographic Mini Backpack",29.99,3,2034
+19626,"Butterfly Print Jeans",34.99,5,2034
+19627,"Chunky Platform Sandals",49.99,4,2034
+19628,"Y2K Butterfly Clips",7.99,20,2034
+19629,"Neon Pink Sunglasses",14.99,10,2034
+19630,"Metallic Silver Pants",39.99,2,2034
+19631,"Tie-Dye Hoodie",27.99,6,2034
+19632,"Y2K Rhinestone Belt",19.99,8,2034
+19633,"Neon Orange Windbreaker",49.99,3,2034
+19634,"Glitter Jelly Sandals",22.99,5,2034
+19635,"Velvet Crop Top",16.99,7,2034
+19636,"Plaid Y2K Skirt",29.99,4,2034
+19637,"Retro Butterfly Tank Top",14.99,9,2034
+19638,"Y2K Glitter Eyeshadow",12.50,15,2034
+19639,"Neon Pink Cargo Pants",39.99,3,2034
+19640,"Y2K Mesh Shirt",18.99,10,2034
+19641,"Neon Purple Windbreaker",45.99,2,2034
+19642,"Retro Y2K Platform Boots",59.99,5,2034
+19643,"Y2K Rhinestone Choker",14.99,12,2034
+19644,"Glitter Fanny Pack",24.99,6,2034
+19645,"Retro Tie-Dye Skirt",19.99,8,2034
+19646,"Neon Yellow Leggings",16.99,10,2034
+19647,"Y2K Sequin Dress",39.99,2,2034
+19648,"Neon Green Windbreaker",49.99,3,2034
+19988,"Black Gothic Dress",28.99,2,2033
+21593,"Long Silver Wig for Cosplay",34.99,2,2037
+21666,"Pink Wig for Cosplay",21.99,3,2037
+21954,"Colored Circle Lenses",5.99,10,2037
+21955,"Naruto Headband",9.99,25,2037
+21956,"Sailor Moon Costume",89.99,3,2037
+21957,"Attack on Titan Cloak",69.99,5,2037
+21958,"Dragon Ball Z Wig",24.99,10,2037
+21959,"Demon Slayer Sword",45.00,6,2037
+21960,"Tokyo Ghoul Mask",29.99,8,2037
+21961,"One Piece Hat",19.99,7,2037
+21962,"Zelda Shield",75.99,2,2037
+21963,"Final Fantasy Sword",89.99,3,2037
+21964,"Overwatch Gun Replica",99.99,4,2037
+21965,"League of Legends Jinx Wig",39.99,5,2037
+21966,"Sword Art Online Kirito Costume",79.99,3,2037
+21967,"Nezuko Bamboo Muzzle",12.99,12,2037
+21968,"Bleach Ichigo Sword",59.99,4,2037
+21969,"Naruto Akatsuki Cloak",49.99,6,2037
+21970,"Mikasa Scarf",19.99,10,2037
+21971,"Saitama One Punch Man Cape",34.99,8,2037
+21972,"Eren Yeager Wig",29.99,5,2037
+21973,"Kakashi Mask",14.99,12,2037
+21974,"Light Yagami Death Note",9.99,20,2037
+21975,"Ryuk Mask",39.99,4,2037
+21976,"Sailor Jupiter Costume",89.99,3,2037
+21977,"Inosuke Boar Mask",49.99,5,2037
+21978,"Itachi Uchiha Cloak",59.99,6,2037
+21979,"Rukia Kuchiki Wig",24.99,7,2037
+21980,"Sasuke Uchiha Sword",35.99,4,2037
+21981,"Zelda Link Tunic",65.99,3,2037
+21982,"Geralt of Rivia Wig",45.99,5,2037
+21983,"Triss Merigold Costume",99.99,2,2037
+21984,"Cyberpunk 2077 Jacket",89.99,3,2037
+23888,"My Melody Top",21.95,3,2035
+23901,"Cinnamoroll Hoodie",39.99,5,2035
+23902,"Kuromi Plush Doll",24.99,8,2035
+23903,"Hello Kitty Backpack",49.99,3,2035
+23904,"My Melody Pajamas",35.99,6,2035
+23905,"Sanrio Stickers Pack",7.50,20,2035
+23906,"Little Twin Stars Socks",12.99,10,2035
+23907,"Sanrio Keychain Set",19.99,15,2035
+23908,"Pom Pom Purin Mug",14.99,12,2035
+23909,"Sanrio Water Bottle",21.99,4,2035
+23910,"Chococat Wallet",29.99,3,2035
+23911,"Kuromi Crossbody Bag",35.99,5,2035
+23912,"Sanrio Notebook Set",19.99,8,2035
+23913,"My Melody Coffee Cup",12.50,10,2035
+23914,"Hello Kitty Face Mask",9.99,15,2035
+23915,"Cinnamoroll Plush Blanket",49.99,2,2035
+23916,"Little Twin Stars Poster",14.99,12,2035
+23917,"Pom Pom Purin Tote Bag",25.99,7,2035
+23918,"Sanrio Phone Case",16.99,10,2035
+23919,"Kuromi Wallet",29.50,3,2035
+23920,"My Melody Hairbrush",14.99,8,2035
+23921,"Hello Kitty Earrings",19.99,8,2035
+23922,"My Melody Pillow",29.99,5,2035
+23923,"Cinnamoroll Tumbler",14.99,7,2035
+23924,"Sanrio Lunchbox",24.99,6,2035
+23925,"Kuromi Sweatshirt",39.99,4,2035
+23926,"Little Twin Stars Lamp",49.99,3,2035
+23927,"Pom Pom Purin Plush Toy",25.99,7,2035
+23928,"Sanrio Slippers",22.99,8,2035
+23929,"Hello Kitty Water Bottle",19.99,10,2035
+23930,"My Melody Mug Set",29.99,4,2035
+28281,"Genshin Impact Cosplay",135.65,1,2037
+28935,"Short Blue Cosplay Wig",20.00,2,2037
+28958,"My Hero Academia Cosplay",95.60,1,2037
+28989,"Honkai Stair Rail Cosplay",126.99,1,2037
